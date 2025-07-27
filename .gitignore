@@ -1,0 +1,11 @@
+# Ignore backend build files
+/employee-system-api/target/
+*.iml
+
+# Ignore frontend build files
+/employee-system-react/node_modules/
+/employee-system-react/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
